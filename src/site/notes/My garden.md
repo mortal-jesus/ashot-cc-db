@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/my-garden/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/My garden/","tags":["gardenEntry"]}
 ---
 
 Hello, World!
-[[COLIZEUM/Management/Regulations/Производственный персонал/Администратор. Регламент\|Администратор. Регламент]]
+this is my db
+
