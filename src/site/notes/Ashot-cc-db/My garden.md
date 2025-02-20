@@ -4,4 +4,4 @@
 
 Hello, World!
 this is my db
-[[COLIZEUM/Management/Regulations/Производственный персонал/Администратор. Регламент\|Администратор. Регламент]]
+
