@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ashot-cc-db/my-garden/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Ashot-cc-db/My garden/","tags":["gardenEntry"]}
 ---
 
 Hello, World!
