@@ -28,28 +28,28 @@
 Актуально на 17.01.2025
 
 
-| ***Список игр***  | **TV1** | **TV2** | **TV3** | **TV4** | **TV5** | **TV6** | **TV7** | **TV8**   | **TV9**           | **TV10**    | **TV VIP5** | **VIP - ROOM** | ***Список игр***  |
-| ----------------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | --------- | ----------------- | ----------- | ----------- | -------------- | ----------------- |
-| FC 25             | ✅       |         | ✅       | ✅       |         |         |         | FIFA23    | FIFA21            | FIFA23      | ✅           |                | FC 25             |
-| FC 24             | ✅       |         | ✅       |         | ✅       | ✅       |         | ✅         | FIFA22            | FIFA24      | ✅           | ✅              | FC 24             |
-| UFC 4             | ✅       |         | ✅       | ✅       | ✅       | ✅       |         | UFC 3     | TEKKEN7           | FIFA21      | ✅           |                | UFC 4             |
-| UFC 5             | ✅       |         | ✅       | ✅       | ✅       | ✅       |         | NHL 19    | MK11              | UFC 4       | ✅           | ✅              | UFC 5             |
-| NHL 24            |         |         |         |         | ✅       |         |         |           |                   |             |             | ✅              | NHL 24            |
-| MK1               | ✅       |         | ✅       | ✅       | ✅       | ✅       |         | MK11      | UFC 4             | ROCKET LE   |             | ✅              | MK1               |
-| MK11              | ✅       |         | ✅       | ✅       |         |         |         |           |                   |             | ✅           | ✅              | MK11              |
-| TEKKEN 7          |         |         |         |         | ✅       | ✅       |         |           |                   |             |             |                | TEKKEN 7          |
-| Garn Turismo      | ✅       |         |         |         |         |         |         | Tekken 7  | GTA V             | GANG BEASTS |             |                | Garn Turismo      |
-| IT Takes Two      | ✅       |         |         |         |         |         |         | ROCKET LE | NHL 22            | TEKKEN7     |             |                | IT Takes Two      |
-| Unravel Two       | ✅       |         |         |         | ✅       | ✅       |         | Minecraft | FORTNITE          | FORTNITE    |             | ✅              | Unravel Two       |
-| Gang Beasts       |         |         |         |         | ✅       | ✅       |         |           |                   |             | ✅           | ✅              | Gang Beasts       |
-| Rocket League     |         |         | ✅       |         | ✅       |         |         |           |                   |             |             |                | Rocket League     |
-| Fortnite          |         |         |         |         | ✅       | ✅       |         |           |                   |             |             |                | Fortnite          |
-| Marvel Spider-Man |         |         | ✅       |         | ✅       | ✅       |         |           |                   |             |             |                | Marvel Spider-Man |
-|                   |         |         |         |         |         |         |         | FORTNITE  | ROCKET LE         | NHL 19      |             |                |                   |
-| Far Cry 6         | ✅       |         |         |         |         |         |         |           | GRAND TURISMO     | MINECRAFT   |             |                | Far Cry 6         |
-| MINECRAFT         | ✅       |         |         | ✅       | ✅       |         |         |           | MARVEL SPIDER MAN |             |             | ✅              | MINECRAFT         |
-| Asphalt           |         |         | ✅       |         |         |         |         |           |                   |             |             |                | Asphalt           |
-| Resident Evil 2   |         |         | ✅       |         |         |         |         |           |                   |             |             |                | Resident Evil 2   |
+| ***Список игр***  | **TV1** | **TV2** | **TV3** | **TV4** | **TV5** | **TV6** | **TV7** | **TV8**  | **TV9**           | **TV10**  | **TV VIP5** | **VIP - ROOM** | ***Список игр***  |
+| ----------------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | -------- | ----------------- | --------- | ----------- | -------------- | ----------------- |
+| FC 25             | ✅       |         | ✅       | ✅       |         |         | ✅       | ✅        | ✅                 | ✅         | ✅           |                | FC 25             |
+| FC 24             | ✅       |         | ✅       |         | ✅       | ✅       |         |          |                   |           | ✅           | ✅              | FC 24             |
+| UFC 4             | ✅       |         | ✅       | ✅       | ✅       | ✅       |         |          |                   |           | ✅           |                | UFC 4             |
+| UFC 5             | ✅       |         | ✅       | ✅       | ✅       | ✅       | ✅       | ✅        | ✅                 | ✅         | ✅           | ✅              | UFC 5             |
+| NHL 24            |         |         |         |         | ✅       |         |         |          |                   |           |             | ✅              | NHL 24            |
+| MK1               | ✅       |         | ✅       | ✅       | ✅       | ✅       | ✅       | ✅        | ✅                 | ✅         |             | ✅              | MK1               |
+| MK11              | ✅       |         | ✅       | ✅       |         |         |         |          |                   |           | ✅           | ✅              | MK11              |
+| TEKKEN 7          |         |         |         |         | ✅       | ✅       |         |          |                   |           |             |                | TEKKEN 7          |
+| Garn Turismo      | ✅       |         |         |         |         |         | ✅       | ✅        | ✅                 | ✅         |             |                | Garn Turismo      |
+| IT Takes Two      | ✅       |         |         |         |         |         |         |          |                   |           |             |                | IT Takes Two      |
+| Unravel Two       | ✅       |         |         |         | ✅       | ✅       |         |          |                   |           |             | ✅              | Unravel Two       |
+| Gang Beasts       |         |         |         |         | ✅       | ✅       |         |          |                   |           | ✅           | ✅              | Gang Beasts       |
+| Rocket League     |         |         | ✅       |         | ✅       |         |         |          |                   |           |             |                | Rocket League     |
+| Fortnite          |         |         |         |         | ✅       | ✅       |         |          |                   |           |             |                | Fortnite          |
+| Marvel Spider-Man |         |         | ✅       |         | ✅       | ✅       |         |          |                   |           |             |                | Marvel Spider-Man |
+|                   |         |         |         |         |         |         |         |          |                   |           |             |                |                   |
+| Far Cry 6         | ✅       |         |         |         |         |         |         |          |                   |           |             |                | Far Cry 6         |
+| MINECRAFT         | ✅       |         |         | ✅       | ✅       |         |         |          |                   |           |             | ✅              | MINECRAFT         |
+| Asphalt           |         |         | ✅       |         |         |         |         |          |                   |           |             |                | Asphalt           |
+| Resident Evil 2   |         |         | ✅       |         |         |         |         |          |                   |           |             |                | Resident Evil 2   |
 
 ### Аккаунты
 | **TV1**        | **TV2**         | **TV3** | **TV4**                 | **TV5**       | **TV6** | **TV7** | **TV8** | **TV9** | **TV10** | **TV VIP5** | **VIP - ROOM** |
